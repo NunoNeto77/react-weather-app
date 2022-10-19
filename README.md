@@ -1,3 +1,5 @@
+I took out my Rapid API key and OpenWeather API key.
+
 ![react-weather-app-image](../assets/react-weather-app.png?raw=true)
 
 
